@@ -14710,14 +14710,14 @@
         "obsoletes": "1F3CB-FE0F"
     },
     {
-        "name": "WEIGHT LIFTER",
-        "unified": "1F3CB",
-        "non_qualified": null,
+        "name": null,
+        "unified": "1F3CB-FE0F",
+        "non_qualified": "1F3CB",
         "docomo": null,
         "au": null,
         "softbank": null,
         "google": null,
-        "image": "1f3cb.png",
+        "image": "1f3cb-fe0f.png",
         "sheet_x": 11,
         "sheet_y": 6,
         "short_name": "weight_lifter",
@@ -14729,10 +14729,10 @@
         "category": "Activities",
         "sort_order": 26,
         "added_in": "7.0",
-        "has_img_apple": false,
-        "has_img_google": false,
-        "has_img_twitter": false,
-        "has_img_emojione": true,
+        "has_img_apple": true,
+        "has_img_google": true,
+        "has_img_twitter": true,
+        "has_img_emojione": false,
         "has_img_facebook": false,
         "has_img_messenger": false,
         "skin_variations": {
@@ -14806,7 +14806,8 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             }
-        }
+        },
+        "obsoleted_by": "1F3CB-FE0F-200D-2642-FE0F"
     },
     {
         "name": null,
@@ -14998,14 +14999,14 @@
         "obsoletes": "1F3CC-FE0F"
     },
     {
-        "name": "GOLFER",
-        "unified": "1F3CC",
-        "non_qualified": null,
+        "name": null,
+        "unified": "1F3CC-FE0F",
+        "non_qualified": "1F3CC",
         "docomo": null,
         "au": null,
         "softbank": null,
         "google": null,
-        "image": "1f3cc.png",
+        "image": "1f3cc-fe0f.png",
         "sheet_x": 11,
         "sheet_y": 24,
         "short_name": "golfer",
@@ -15017,10 +15018,10 @@
         "category": "Activities",
         "sort_order": 41,
         "added_in": "7.0",
-        "has_img_apple": false,
-        "has_img_google": false,
-        "has_img_twitter": false,
-        "has_img_emojione": true,
+        "has_img_apple": true,
+        "has_img_google": true,
+        "has_img_twitter": true,
+        "has_img_emojione": false,
         "has_img_facebook": false,
         "has_img_messenger": false,
         "skin_variations": {
@@ -15094,7 +15095,8 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             }
-        }
+        },
+        "obsoleted_by": "1F3CC-FE0F-200D-2642-FE0F"
     },
     {
         "name": "RACING MOTORCYCLE",
@@ -34235,14 +34237,14 @@
         "obsoletes": "1F575-FE0F"
     },
     {
-        "name": "SLEUTH OR SPY",
-        "unified": "1F575",
-        "non_qualified": null,
+        "name": null,
+        "unified": "1F575-FE0F",
+        "non_qualified": "1F575",
         "docomo": null,
         "au": null,
         "softbank": null,
         "google": null,
-        "image": "1f575.png",
+        "image": "1f575-fe0f.png",
         "sheet_x": 29,
         "sheet_y": 11,
         "short_name": "sleuth_or_spy",
@@ -34254,10 +34256,10 @@
         "category": "Smileys & People",
         "sort_order": 204,
         "added_in": "7.0",
-        "has_img_apple": false,
-        "has_img_google": false,
-        "has_img_twitter": false,
-        "has_img_emojione": true,
+        "has_img_apple": true,
+        "has_img_google": true,
+        "has_img_twitter": true,
+        "has_img_emojione": false,
         "has_img_facebook": false,
         "has_img_messenger": false,
         "skin_variations": {
@@ -34331,7 +34333,8 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             }
-        }
+        },
+        "obsoleted_by": "1F575-FE0F-200D-2642-FE0F"
     },
     {
         "name": "DARK SUNGLASSES",
@@ -55690,14 +55693,14 @@
         "obsoletes": "26F9-FE0F"
     },
     {
-        "name": "PERSON WITH BALL",
-        "unified": "26F9",
-        "non_qualified": null,
+        "name": null,
+        "unified": "26F9-FE0F",
+        "non_qualified": "26F9",
         "docomo": null,
         "au": null,
         "softbank": null,
         "google": null,
-        "image": "26f9.png",
+        "image": "26f9-fe0f.png",
         "sheet_x": 49,
         "sheet_y": 6,
         "short_name": "person_with_ball",
@@ -55709,10 +55712,10 @@
         "category": "Activities",
         "sort_order": 34,
         "added_in": "5.2",
-        "has_img_apple": false,
-        "has_img_google": false,
-        "has_img_twitter": false,
-        "has_img_emojione": true,
+        "has_img_apple": true,
+        "has_img_google": true,
+        "has_img_twitter": true,
+        "has_img_emojione": false,
         "has_img_facebook": false,
         "has_img_messenger": false,
         "skin_variations": {
@@ -55786,7 +55789,8 @@
                 "has_img_facebook": false,
                 "has_img_messenger": false
             }
-        }
+        },
+        "obsoleted_by": "26F9-FE0F-200D-2642-FE0F"
     },
     {
         "name": "TENT",
