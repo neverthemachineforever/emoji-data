@@ -80,6 +80,7 @@
 		$line = rtrim($line);
 		if (substr($line, 0, 9) == '# group: '){
 			$last_cat = substr($line, 9);
+			// echo "category: " . $last_cat . "\n";
 			$categories[$last_cat] = array();
 		}elseif (substr($line, 0, 1) == '#'){
 			continue;
@@ -89,6 +90,8 @@
 			$cp = preg_replace('!\s+!', '-', $cp);
 			$category_map[$cp] = array($last_cat, $p);
 			$p++;
+
+			// echo ".";
 
 			$cp_nq = str_replace('-fe0f', '', $cp);
 			if ($cp != $cp_nq) $qualified_map[$cp_nq] = $cp;
