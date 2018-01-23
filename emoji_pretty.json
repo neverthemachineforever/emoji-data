@@ -46397,7 +46397,8 @@
                 "has_img_twitter": true,
                 "has_img_emojione": false,
                 "has_img_facebook": false,
-                "has_img_messenger": false
+                "has_img_messenger": false,
+                "obsoletes": "1F939-1F3FB"
             },
             "1F3FC": {
                 "unified": "1F939-1F3FC-200D-2642-FE0F",
@@ -46410,7 +46411,8 @@
                 "has_img_twitter": true,
                 "has_img_emojione": false,
                 "has_img_facebook": false,
-                "has_img_messenger": false
+                "has_img_messenger": false,
+                "obsoletes": "1F939-1F3FC"
             },
             "1F3FD": {
                 "unified": "1F939-1F3FD-200D-2642-FE0F",
@@ -46423,7 +46425,8 @@
                 "has_img_twitter": true,
                 "has_img_emojione": false,
                 "has_img_facebook": false,
-                "has_img_messenger": false
+                "has_img_messenger": false,
+                "obsoletes": "1F939-1F3FD"
             },
             "1F3FE": {
                 "unified": "1F939-1F3FE-200D-2642-FE0F",
@@ -46436,7 +46439,8 @@
                 "has_img_twitter": true,
                 "has_img_emojione": false,
                 "has_img_facebook": false,
-                "has_img_messenger": false
+                "has_img_messenger": false,
+                "obsoletes": "1F939-1F3FE"
             },
             "1F3FF": {
                 "unified": "1F939-1F3FF-200D-2642-FE0F",
@@ -46449,9 +46453,11 @@
                 "has_img_twitter": true,
                 "has_img_emojione": false,
                 "has_img_facebook": false,
-                "has_img_messenger": false
+                "has_img_messenger": false,
+                "obsoletes": "1F939-1F3FF"
             }
-        }
+        },
+        "obsoletes": "1F939"
     },
     {
         "name": "JUGGLING",
@@ -46492,7 +46498,8 @@
                 "has_img_twitter": true,
                 "has_img_emojione": true,
                 "has_img_facebook": true,
-                "has_img_messenger": false
+                "has_img_messenger": false,
+                "obsoleted_by": "1F939-1F3FB-200D-2642-FE0F"
             },
             "1F3FC": {
                 "unified": "1F939-1F3FC",
@@ -46506,7 +46513,8 @@
                 "has_img_twitter": true,
                 "has_img_emojione": true,
                 "has_img_facebook": true,
-                "has_img_messenger": false
+                "has_img_messenger": false,
+                "obsoleted_by": "1F939-1F3FC-200D-2642-FE0F"
             },
             "1F3FD": {
                 "unified": "1F939-1F3FD",
@@ -46520,7 +46528,8 @@
                 "has_img_twitter": true,
                 "has_img_emojione": true,
                 "has_img_facebook": true,
-                "has_img_messenger": false
+                "has_img_messenger": false,
+                "obsoleted_by": "1F939-1F3FD-200D-2642-FE0F"
             },
             "1F3FE": {
                 "unified": "1F939-1F3FE",
@@ -46534,7 +46543,8 @@
                 "has_img_twitter": true,
                 "has_img_emojione": true,
                 "has_img_facebook": true,
-                "has_img_messenger": false
+                "has_img_messenger": false,
+                "obsoleted_by": "1F939-1F3FE-200D-2642-FE0F"
             },
             "1F3FF": {
                 "unified": "1F939-1F3FF",
@@ -46548,9 +46558,11 @@
                 "has_img_twitter": true,
                 "has_img_emojione": true,
                 "has_img_facebook": true,
-                "has_img_messenger": false
+                "has_img_messenger": false,
+                "obsoleted_by": "1F939-1F3FF-200D-2642-FE0F"
             }
-        }
+        },
+        "obsoleted_by": "1F939-200D-2642-FE0F"
     },
     {
         "name": "FENCER",
@@ -46631,7 +46643,8 @@
         "has_img_twitter": true,
         "has_img_emojione": false,
         "has_img_facebook": true,
-        "has_img_messenger": false
+        "has_img_messenger": false,
+        "obsoletes": "1F93C"
     },
     {
         "name": "WRESTLERS",
@@ -46658,7 +46671,8 @@
         "has_img_twitter": true,
         "has_img_emojione": true,
         "has_img_facebook": false,
-        "has_img_messenger": false
+        "has_img_messenger": false,
+        "obsoleted_by": "1F93C-200D-2642-FE0F"
     },
     {
         "name": null,
@@ -46792,7 +46806,8 @@
                 "has_img_twitter": true,
                 "has_img_emojione": false,
                 "has_img_facebook": false,
-                "has_img_messenger": false
+                "has_img_messenger": false,
+                "obsoletes": "1F93D-1F3FB"
             },
             "1F3FC": {
                 "unified": "1F93D-1F3FC-200D-2642-FE0F",
@@ -46805,7 +46820,8 @@
                 "has_img_twitter": true,
                 "has_img_emojione": false,
                 "has_img_facebook": false,
-                "has_img_messenger": false
+                "has_img_messenger": false,
+                "obsoletes": "1F93D-1F3FC"
             },
             "1F3FD": {
                 "unified": "1F93D-1F3FD-200D-2642-FE0F",
@@ -46818,7 +46834,8 @@
                 "has_img_twitter": true,
                 "has_img_emojione": false,
                 "has_img_facebook": false,
-                "has_img_messenger": false
+                "has_img_messenger": false,
+                "obsoletes": "1F93D-1F3FD"
             },
             "1F3FE": {
                 "unified": "1F93D-1F3FE-200D-2642-FE0F",
@@ -46831,7 +46848,8 @@
                 "has_img_twitter": true,
                 "has_img_emojione": false,
                 "has_img_facebook": false,
-                "has_img_messenger": false
+                "has_img_messenger": false,
+                "obsoletes": "1F93D-1F3FE"
             },
             "1F3FF": {
                 "unified": "1F93D-1F3FF-200D-2642-FE0F",
@@ -46844,9 +46862,11 @@
                 "has_img_twitter": true,
                 "has_img_emojione": false,
                 "has_img_facebook": false,
-                "has_img_messenger": false
+                "has_img_messenger": false,
+                "obsoletes": "1F93D-1F3FF"
             }
-        }
+        },
+        "obsoletes": "1F93D"
     },
     {
         "name": "WATER POLO",
@@ -46887,7 +46907,8 @@
                 "has_img_twitter": true,
                 "has_img_emojione": true,
                 "has_img_facebook": false,
-                "has_img_messenger": false
+                "has_img_messenger": false,
+                "obsoleted_by": "1F93D-1F3FB-200D-2642-FE0F"
             },
             "1F3FC": {
                 "unified": "1F93D-1F3FC",
@@ -46901,7 +46922,8 @@
                 "has_img_twitter": true,
                 "has_img_emojione": true,
                 "has_img_facebook": false,
-                "has_img_messenger": false
+                "has_img_messenger": false,
+                "obsoleted_by": "1F93D-1F3FC-200D-2642-FE0F"
             },
             "1F3FD": {
                 "unified": "1F93D-1F3FD",
@@ -46915,7 +46937,8 @@
                 "has_img_twitter": true,
                 "has_img_emojione": true,
                 "has_img_facebook": false,
-                "has_img_messenger": false
+                "has_img_messenger": false,
+                "obsoleted_by": "1F93D-1F3FD-200D-2642-FE0F"
             },
             "1F3FE": {
                 "unified": "1F93D-1F3FE",
@@ -46929,7 +46952,8 @@
                 "has_img_twitter": true,
                 "has_img_emojione": true,
                 "has_img_facebook": false,
-                "has_img_messenger": false
+                "has_img_messenger": false,
+                "obsoleted_by": "1F93D-1F3FE-200D-2642-FE0F"
             },
             "1F3FF": {
                 "unified": "1F93D-1F3FF",
@@ -46943,9 +46967,11 @@
                 "has_img_twitter": true,
                 "has_img_emojione": true,
                 "has_img_facebook": false,
-                "has_img_messenger": false
+                "has_img_messenger": false,
+                "obsoleted_by": "1F93D-1F3FF-200D-2642-FE0F"
             }
-        }
+        },
+        "obsoleted_by": "1F93D-200D-2642-FE0F"
     },
     {
         "name": null,
@@ -46985,7 +47011,8 @@
                 "has_img_twitter": true,
                 "has_img_emojione": false,
                 "has_img_facebook": false,
-                "has_img_messenger": false
+                "has_img_messenger": false,
+                "obsoletes": "1F93E-1F3FB"
             },
             "1F3FC": {
                 "unified": "1F93E-1F3FC-200D-2640-FE0F",
@@ -46998,7 +47025,8 @@
                 "has_img_twitter": true,
                 "has_img_emojione": false,
                 "has_img_facebook": false,
-                "has_img_messenger": false
+                "has_img_messenger": false,
+                "obsoletes": "1F93E-1F3FC"
             },
             "1F3FD": {
                 "unified": "1F93E-1F3FD-200D-2640-FE0F",
@@ -47011,7 +47039,8 @@
                 "has_img_twitter": true,
                 "has_img_emojione": false,
                 "has_img_facebook": false,
-                "has_img_messenger": false
+                "has_img_messenger": false,
+                "obsoletes": "1F93E-1F3FD"
             },
             "1F3FE": {
                 "unified": "1F93E-1F3FE-200D-2640-FE0F",
@@ -47024,7 +47053,8 @@
                 "has_img_twitter": true,
                 "has_img_emojione": false,
                 "has_img_facebook": false,
-                "has_img_messenger": false
+                "has_img_messenger": false,
+                "obsoletes": "1F93E-1F3FE"
             },
             "1F3FF": {
                 "unified": "1F93E-1F3FF-200D-2640-FE0F",
@@ -47037,9 +47067,11 @@
                 "has_img_twitter": true,
                 "has_img_emojione": false,
                 "has_img_facebook": false,
-                "has_img_messenger": false
+                "has_img_messenger": false,
+                "obsoletes": "1F93E-1F3FF"
             }
-        }
+        },
+        "obsoletes": "1F93E"
     },
     {
         "name": null,
@@ -47174,7 +47206,8 @@
                 "has_img_twitter": true,
                 "has_img_emojione": true,
                 "has_img_facebook": false,
-                "has_img_messenger": false
+                "has_img_messenger": false,
+                "obsoleted_by": "1F93E-1F3FB-200D-2640-FE0F"
             },
             "1F3FC": {
                 "unified": "1F93E-1F3FC",
@@ -47188,7 +47221,8 @@
                 "has_img_twitter": true,
                 "has_img_emojione": true,
                 "has_img_facebook": false,
-                "has_img_messenger": false
+                "has_img_messenger": false,
+                "obsoleted_by": "1F93E-1F3FC-200D-2640-FE0F"
             },
             "1F3FD": {
                 "unified": "1F93E-1F3FD",
@@ -47202,7 +47236,8 @@
                 "has_img_twitter": true,
                 "has_img_emojione": true,
                 "has_img_facebook": false,
-                "has_img_messenger": false
+                "has_img_messenger": false,
+                "obsoleted_by": "1F93E-1F3FD-200D-2640-FE0F"
             },
             "1F3FE": {
                 "unified": "1F93E-1F3FE",
@@ -47216,7 +47251,8 @@
                 "has_img_twitter": true,
                 "has_img_emojione": true,
                 "has_img_facebook": false,
-                "has_img_messenger": false
+                "has_img_messenger": false,
+                "obsoleted_by": "1F93E-1F3FE-200D-2640-FE0F"
             },
             "1F3FF": {
                 "unified": "1F93E-1F3FF",
@@ -47230,9 +47266,11 @@
                 "has_img_twitter": true,
                 "has_img_emojione": true,
                 "has_img_facebook": false,
-                "has_img_messenger": false
+                "has_img_messenger": false,
+                "obsoleted_by": "1F93E-1F3FF-200D-2640-FE0F"
             }
-        }
+        },
+        "obsoleted_by": "1F93E-200D-2640-FE0F"
     },
     {
         "name": "WILTED FLOWER",

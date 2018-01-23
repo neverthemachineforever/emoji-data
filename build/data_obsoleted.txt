@@ -97,3 +97,26 @@
 1f938-1f3fd;1f938-1f3fd-200d-2642-fe0f # :person_doing_cartwheel (tone)
 1f938-1f3fe;1f938-1f3fe-200d-2642-fe0f # :person_doing_cartwheel (tone)
 1f938-1f3ff;1f938-1f3ff-200d-2642-fe0f # :person_doing_cartwheel (tone)
+
+1f93c;1f93c-200d-2642-fe0f # :wrestlers - MAN
+
+1f93d;1f93d-200d-2642-fe0f # :water_polo
+1f93d-1f3fb;1f93d-1f3fb-200d-2642-fe0f # :water_polo (tone)
+1f93d-1f3fc;1f93d-1f3fc-200d-2642-fe0f # :water_polo (tone)
+1f93d-1f3fd;1f93d-1f3fd-200d-2642-fe0f # :water_polo (tone)
+1f93d-1f3fe;1f93d-1f3fe-200d-2642-fe0f # :water_polo (tone)
+1f93d-1f3ff;1f93d-1f3ff-200d-2642-fe0f # :water_polo (tone)
+
+1f93e;1f93e-200d-2640-fe0f # :handball - WOMAN
+1f93e-1f3fb;1f93e-1f3fb-200d-2640-fe0f # :handball (tone)
+1f93e-1f3fc;1f93e-1f3fc-200d-2640-fe0f # :handball (tone)
+1f93e-1f3fd;1f93e-1f3fd-200d-2640-fe0f # :handball (tone)
+1f93e-1f3fe;1f93e-1f3fe-200d-2640-fe0f # :handball (tone)
+1f93e-1f3ff;1f93e-1f3ff-200d-2640-fe0f # :handball (tone)
+
+1f939;1f939-200d-2642-fe0f # :juggling - MAN
+1f939-1f3fb;1f939-1f3fb-200d-2642-fe0f # :juggling (tone)
+1f939-1f3fc;1f939-1f3fc-200d-2642-fe0f # :juggling (tone)
+1f939-1f3fd;1f939-1f3fd-200d-2642-fe0f # :juggling (tone)
+1f939-1f3fe;1f939-1f3fe-200d-2642-fe0f # :juggling (tone)
+1f939-1f3ff;1f939-1f3ff-200d-2642-fe0f # :juggling (tone)
