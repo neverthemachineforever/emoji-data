@@ -91,3 +91,9 @@
 1f9de;1f9de-200d-2642-fe0f # :genie - MAN
 1f9df;1f9df-200d-2642-fe0f # :zombie - MAN
 
+1f938;1f938-200d-2642-fe0f # :person_doing_cartwheel - MAN
+1f938-1f3fb;1f938-1f3fb-200d-2642-fe0f # :person_doing_cartwheel (tone)
+1f938-1f3fc;1f938-1f3fc-200d-2642-fe0f # :person_doing_cartwheel (tone)
+1f938-1f3fd;1f938-1f3fd-200d-2642-fe0f # :person_doing_cartwheel (tone)
+1f938-1f3fe;1f938-1f3fe-200d-2642-fe0f # :person_doing_cartwheel (tone)
+1f938-1f3ff;1f938-1f3ff-200d-2642-fe0f # :person_doing_cartwheel (tone)
