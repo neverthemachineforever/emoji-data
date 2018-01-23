@@ -143,11 +143,6 @@
 1F63F                                      ; fully-qualified     # 😿 crying cat face
 1F63E                                      ; fully-qualified     # 😾 pouting cat face
 
-# subgroup: monkey-face
-1F648                                      ; fully-qualified     # 🙈 see-no-evil monkey
-1F649                                      ; fully-qualified     # 🙉 hear-no-evil monkey
-1F64A                                      ; fully-qualified     # 🙊 speak-no-evil monkey
-
 # subgroup: person
 1F476                                      ; fully-qualified     # 👶 baby
 1F476 1F3FB                                ; fully-qualified     # 👶🏻 baby: light skin tone
@@ -2134,6 +2129,9 @@
 
 # subgroup: animal-mammal
 1F435                                      ; fully-qualified     # 🐵 monkey face
+1F648                                      ; fully-qualified     # 🙈 see-no-evil monkey
+1F649                                      ; fully-qualified     # 🙉 hear-no-evil monkey
+1F64A                                      ; fully-qualified     # 🙊 speak-no-evil monkey
 1F412                                      ; fully-qualified     # 🐒 monkey
 1F98D                                      ; fully-qualified     # 🦍 gorilla
 1F436                                      ; fully-qualified     # 🐶 dog face
